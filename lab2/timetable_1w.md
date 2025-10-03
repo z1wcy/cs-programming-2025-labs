@@ -52,4 +52,4 @@
 | 20:10-21:30 | Безопасность жизнедеятельности | Система электронного обучения |
 
 
-[Назад](lab2/timetables.md)
+[Назад]([lab2/timetables.md](https://github.com/z1wcy/cs-programming-2025-labs/blob/061045013357cc6a02453ba093d6209b1b097703/lab2/timetables.md))
