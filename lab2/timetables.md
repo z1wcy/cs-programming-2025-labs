@@ -1,6 +1,7 @@
+## Расписание БИН-25-3
 
-[Расписание 1](timetable_1w.md)
+[Расписание 1 ндели](timetable_1w.md)
 
-[Расписание 2](timetable_2w.md)
+[Расписание 2 недели](timetable_2w.md)
 
-[Расписание 3](timetable_3w.md)
+[Расписание 3 недели](timetable_3w.md)
