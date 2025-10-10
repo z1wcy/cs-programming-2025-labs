@@ -1,6 +1,6 @@
-x=int(input("Ну вводи число"))
+x=int(input("вводи число"))
 if x <0:
-    print("Окак")
+    print("ок")
 else:
     fac=1
     for i in range(1,x+1):
