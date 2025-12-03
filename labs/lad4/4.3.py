@@ -7,4 +7,3 @@ elif age>22:
     print("Собака is dead")
 elif age <1: 
     print("Ошибка: возраст должен быть не меньше 1")
-
