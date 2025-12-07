@@ -1,0 +1,37 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.12.5)  8 DEC 2025 07:46
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/макс/Desktop/z1wcycs-programming-2025-labs/cs-programming-2025-labs/
+labs/lad4/report.tex
+
+(c:/Users/макс/Desktop/z1wcycs-programming-2025-labs/cs-programming-2025-labs/l
+abs/lad4/report.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+
+! LaTeX Error: File `vvsu.cls' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: cls)
+
+Enter file name: 
+c:/Users/макс/Desktop/z1wcycs-programming-2025-labs/cs-programming-2025-labs/la
+bs/lad4/report.tex:2: Emergency stop.
+<read *> 
+         
+l.2 ^^M
+       
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 22 strings out of 409617
+ 622 string characters out of 5777261
+ 1917191 words of memory out of 5000000
+ 22202 multiletter control sequences out of 15000+600000
+ 558069 words of font info for 36 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 19i,0n,29p,151b,17s stack positions out of 10000i,1000n,20000p,200000b,200000s
+No pages of output.
