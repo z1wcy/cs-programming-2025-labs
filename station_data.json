@@ -10,78 +10,68 @@
     "AI-95_1": {
       "type": "AI-95",
       "max_volume": 20000,
-      "current_volume": 9800,
-      "enabled": false,
+      "current_volume": 19800.0,
+      "enabled": true,
       "min_level": 1000
     },
     "AI-95_2": {
       "type": "AI-95",
       "max_volume": 20000,
       "current_volume": 1200,
-      "enabled": false,
+      "enabled": true,
       "min_level": 1000
     },
     "AI-98_1": {
       "type": "AI-98",
       "max_volume": 15000,
       "current_volume": 10000,
-      "enabled": false,
+      "enabled": true,
       "min_level": 1000
     },
     "DT_1": {
       "type": "DT",
       "max_volume": 25000,
-      "current_volume": 15600,
-      "enabled": false,
+      "current_volume": 15570.0,
+      "enabled": true,
       "min_level": 1000
     }
   },
-  "balance": 0.0,
+  "balance": 1680.0,
   "stats": {
-    "cars_served": 0,
+    "cars_served": 1,
     "fuel_sold": {
       "AI-92": 0,
       "AI-95": 0,
       "AI-98": 0,
-      "DT": 0
+      "DT": 30.0
     },
     "income_by_fuel": {
       "AI-92": 0,
       "AI-95": 0,
       "AI-98": 0,
-      "DT": 0
+      "DT": 1680.0
     }
   },
   "history": [
     {
-      "timestamp": "2026-01-18 19:42:16",
-      "type": "EMERGENCY_DISABLE",
-      "details": "Цистерна AI-92_1 заблокирована при аварии"
+      "timestamp": "2026-01-22 00:15:21",
+      "type": "SALE",
+      "details": "Колонка 4, DT, 30.0л, 1680.00₽"
     },
     {
-      "timestamp": "2026-01-18 19:42:16",
-      "type": "EMERGENCY_DISABLE",
-      "details": "Цистерна AI-95_1 заблокирована при аварии"
-    },
-    {
-      "timestamp": "2026-01-18 19:42:16",
-      "type": "EMERGENCY_DISABLE",
-      "details": "Цистерна DT_1 заблокирована при аварии"
-    },
-    {
-      "timestamp": "2026-01-18 19:42:16",
-      "type": "EMERGENCY",
-      "details": "Аварийная ситуация активирована"
-    },
-    {
-      "timestamp": "2026-01-18 19:42:25",
-      "type": "EMERGENCY_END",
-      "details": "Аварийный режим завершен"
-    },
-    {
-      "timestamp": "2026-01-18 19:43:30",
+      "timestamp": "2026-01-22 00:18:12",
       "type": "ENABLE",
-      "details": "Цистерна AI-92_1 включена"
+      "details": "Цистерна AI-95_2 включена"
+    },
+    {
+      "timestamp": "2026-01-22 00:18:34",
+      "type": "ENABLE",
+      "details": "Цистерна AI-98_1 включена"
+    },
+    {
+      "timestamp": "2026-01-22 00:19:43",
+      "type": "REFUEL",
+      "details": "Цистерна AI-95_1, добавлено 10000.0л"
     }
   ],
   "emergency_mode": false
